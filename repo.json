@@ -8,5 +8,25 @@
         "repo": "git@github.com:cocos/cocos-engine-external.git",
         "dist": "packages/engine/native/external",
         "tag": "v3.8.8-1"
+    },
+    "wechat": {
+        "repo": "git@github.com:cocos/cocos-pal-wechat.git",
+        "dist": "packages/platforms/wechat",
+        "branch": "main"
+    },
+    "wechat-playable": {
+        "repo": "git@github.com:cocos/cocos-pal-wechat-playable.git",
+        "dist": "packages/platforms/wechat-playable",
+        "branch": "main"
+    },
+    "bytedance": {
+        "repo": "git@github.com:cocos/cocos-pal-bytedance.git",
+        "dist": "packages/platforms/bytedance",
+        "branch": "main"
+    },
+    "sud": {
+        "repo": "git@github.com:cocos/cocos-pal-sud.git",
+        "dist": "packages/platforms/sud",
+        "branch": "main"
     }
 }
